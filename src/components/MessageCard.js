@@ -181,12 +181,7 @@ const CustomHeart = ({ color }) => (
 );
 
 const messages = [
-    "Nhân dịp 8/3, xin gửi những lời chúc tốt đẹp nhất đến tất cả những người phụ nữ tuyệt vời!",
-    "Chúc bạn luôn rạng rỡ như những bông hoa tươi thắm, tràn đầy niềm vui và hạnh phúc.",
-    "Cuộc sống sẽ trở nên thật ý nghĩa khi có bạn, bởi bạn chính là nguồn cảm hứng, là sự ấm áp và yêu thương.",
-    "Mong rằng mỗi ngày đều mang đến cho bạn những điều tốt đẹp nhất, những nụ cười hạnh phúc và những giây phút bình yên.",
-    "Hãy luôn mạnh mẽ, tự tin và tỏa sáng theo cách riêng của mình nhé!",
-    "Chúc bạn một ngày 8/3 thật trọn vẹn và đáng nhớ!"
+    "Chúc mừng sinh nhật!", "Chúc bạn luôn xinh đẹp, rạng rỡ như ánh mặt trời và tràn đầy năng lượng tích cực.", #Mong rằng mỗi ngày của bạn đều ngập tràn niềm vui, hạnh phúc và những điều tốt đẹp nhất.", "Tuổi mới, chúc bạn gặt hái nhiều thành công, may mắn và luôn giữ được nụ cười trên môi.", "Hãy tận hưởng ngày đặc biệt này thật trọn vẹn bên những người yêu thương nhé!", "Chúc bạn một tuổi mới đầy yêu thương và bình an!"
 ];
 
 // Then update the MessageCard component to accept and pass the prop:
